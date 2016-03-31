@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+
+<string name="trans_zoomout">拉远</string>
+<string name="trans_pagestack">堆栈</string>
+<string name="trans_flipin">翻转</string>
+<string name="trans_doorclose">关门</string>
+<string name="trans_tiltin">倾斜</string>
+<string name="trans_spinin">旋转</string>
+<string name="trans_stackin">叠入</string>
+<string name="trans_coverflow">立方体（后）</string>
+<string name="trans_flyin">飞入</string>
+<string name="trans_cubezoom">立方体（前）</string>
+<string name="trans_none">无</string>
+
+<string name="orientation_auto">自动旋转</string>
+<string name="orientation_portrait">纵向</string>
+<string name="orientation_landscape">横向</string>
+
+<string name="sidebar_dark">暗</string>
+<string name="sidebar_light">亮</string>
+
+<string name="menu_settings">设置</string>
+
+<string name="wallpaper_instructions">选择操作</string>
+   
+<string name="search">搜索</string>
+<string name="gadget_error_text">无法加载小工具</string>
+    
+<string name="system_settings">系统设置</string>
+<string name="launcher_settings">桌面设置</string>
+<string name="wallpaper">更换壁纸</string>
+<string name="lock_desktop">锁定桌面</string>
+<string name="unlock_desktop">解锁桌面</string>
+<string name="lock_page">锁定此页面</string>
+<string name="unlock_page">解锁此页面</string>
+   
+<string name="bookmarks">书签</string>
+<string name="refresh">刷新</string>
+<string name="stop">停止</string>
+<string name="home">首页</string>
+<string name="set_home">设为首页</string>
+<string name="share">共享</string>
+    
+<string name="appInfo">应用信息</string>
+<string name="uninstall">卸载</string>
+<string name="addToHome">添加到首页</string>
+<string name="addToFavorites">添加到收藏夹</string>
+<string name="removeFromFavorites">从收藏夹中删除</string>
+<string name="close">关闭</string>
+    
+<string name="home_widgets">添加小工具</string>
+<string name="home_wallpaper">更换壁纸</string>
+    <string name="home_settings">Lucid Launcher 设置</string>
+    <string name="home_store">Lucid 商店</string>
+    
+<string name="saveimage">保存图像</string>
+<string name="openinnewtab">新建标签</string>
+    
+<string name="mainsettingstitle">主要设置</string>
+<string name="sidebarsettingstitle">侧边栏设置</string>
+<string name="drawersettingstitle">应用抽屉设置</string>
+<string name="homesettingstitle">首页设置</string>
+<string name="advancedsettingstitle">高级</string>
+<string name="websettingstitle">浏览器设置</string>
+    
+<string name="pagetransformationtitle">滚动动画</string>
+<string name="pagetransformationsummary">设置页面滚动的动画</string>
+    
+
+<string name="actionbarcolortitle">顶部操作栏的颜色</string>
+<string name="actionbarcolorsummary">设置顶部操作栏的颜色</string>
+    
+<string name="textcolortitle">顶部操作栏文字颜色</string>
+<string name="textcolorsummary">设置顶部操作栏的文字颜色</string>
+    
+<string name="actionbartransparencytitle">顶部操作栏的不透明度</string>
+<string name="actionbartransparencysummary">设置顶部操作栏的不透明度</string>
+    
+<string name="pagetransparencytitle">页面不透明度</string>
+<string name="pagetransparencysummary">设置应用程序和浏览器页面的不透明度</string>
+    
+<string name="orientationtitle">桌面方向</string>
+<string name="orientationsummary">设置桌面的方向</string>
+    
+<string name="fullscreentitle">全屏</string>
+<string name="fullscreensummary">显示或隐藏状态栏</string>
+    
+<string name="transparentnavtitle">透明的导航栏</string>
+<string name="transparentnavsummary">启用或禁用透明导航栏</string>
+    
+<string name="transparentstatustitle">透明状态栏</string>
+<string name="transparentstatussummary">启用或禁用透明状态栏</string>
+    
+<string name="searchtexttitle">自定义搜索名称</string>
+<string name="searchtextsummary">修改顶部操作栏上的搜索名称</string>
+<string name="searchtextmessage">输入一个自定义搜索名称：</string>
+    
+<string name="sidebarthemetitle">侧边栏主题</string>
+<string name="sidebarthemesummary">设置侧边栏主题</string>
+<string name="sidebarthememessage">选择一个主题：</string>
+    
+<string name="sidebariconsizetitle">侧边栏图标大小</string>
+<string name="sidebariconsizesummary">设置侧边栏中的图标大小</string>
+<string name="sidebariconsizemessage">选择图标的大小：</string>
+    
+<string name="sidebariconpaddingtitle">侧边栏图标填充</string>
+<string name="sidebariconpaddingsummary">设置填充周围侧边栏图标</string>
+<string name="sidebariconpaddingmessage">选择侧边栏图标填充：</string>
+    
+<string name="sidebarhidelabeltitle">应用名称</string>
+<string name="sidebarhidelabelsummary">显示或隐藏每个图标旁边的名称</string>
+    
+<string name="sidebartransparencytitle">侧边栏不透明度</string>
+<string name="sidebartransparencysummary">设置侧边栏不透明度</string>
+    
+<string name="numcolumnstitle">列数</string>
+<string name="numcolumnssummary">设置在应用程序抽屉中的列数</string>
+<string name="numcolumnsmessage">选择列数：</string>
+    
+<string name="showlabelstitle">应用程序图标名称：</string>
+<string name="showlabelssummary">显示或隐藏每个图标下的名称</string>
+
+<string name="drawerlabelcolortitle">名称颜色</string>
+<string name="drawerlabelcolorsummary">设置名称的颜色</string>
+    
+<string name="iconsizetitle">图标大小</string>
+<string name="iconsizesummary">设置应用程序抽屉中的图标大小</string>
+<string name="iconsizemessage">选择图标的大小：</string>
+    
+<string name="iconpaddingtitle">图标填充</string>
+<string name="iconpaddingsummary">将填充在每个图标</string>
+<string name="iconpaddingmessage">选择图标填充：</string>
+    
+<string name="verticalspacingtitle">垂直间距</string>
+<string name="verticalspacingsummary">设置应用程序的抽屉设置垂直间距</string>
+<string name="verticalspacingmessage">选择垂直间距：</string>
+
+<string name="homenumpagestitle">首页页数</string>
+<string name="homenumpagessummary">设置首页页数</string>
+<string name="homenumpagesmessage">选择首页的页数：</string>
+    
+<string name="gridsnaptitle">设置对齐网络</string>
+<string name="gridsnapsummary">启用或禁用对齐网格</string>
+    
+<string name="widgetgridsnaptitle">小工具网格对齐</string>
+<string name="widgetgridsnapsummary">启用或禁用对齐网格</string>
+    
+<string name="homelandcolstitle">横向列数</string>
+<string name="homelandcolssummary">设置在横向模式中的列数</string>
+<string name="homelandcolsmessage">选择在横向模式列数：</string>
+    
+<string name="homelandrowstitle">横向行数</string>
+<string name="homelandrowssummary">设置在横向模式下的行数</string>
+<string name="homelandrowsmessage">选择在横向模式行数：</string>
+    
+<string name="homeportcolstitle">纵向列数</string>
+<string name="homeportcolssummary">设置在纵向模式中的列数</string>
+<string name="homeportcolsmessage">选择列在纵向模式中的数量：</string>
+    
+<string name="homeportrowstitle">纵向行数</string>
+<string name="homeportrowssummary">设置在纵向模式下的行数</string>
+<string name="homeportrowsmessage">选择纵向模式的行数：</string>
+    
+<string name="homeiconsizetitle">图标大小</string>
+<string name="homeiconsizesummary">设置主页上的图标大小</string>
+<string name="homeiconsizemessage">选择图标的大小：</string>
+    
+<string name="homeindicatortitle">页面指标</string>
+<string name="homeindicatorsummary">启用或禁用页面指标</string>
+    
+<string name="dimwebpagetitle">昏暗的浏览器页面</string>
+<string name="dimwebpagesummary">浏览器页面中的背景变暗</string>
+    
+<string name="icon_theme">图标主题</string>
+    
+<string name="hide_apps">隐藏应用程序</string>
+<string name="hide_appssummary">从抽屉中隐藏应用程序</string>
+    
+<string name="resettitle">恢复设置为默认</string>
+<string name="resetsummary">还原设置默认值</string>
+    
+<string name="backuptitle">备份</string>
+<string name="backupsummary">备份所有的设置</string>
+    
+<string name="restoretitle">恢复</string>
+<string name="restoresummary">恢复你的备份</string>
+    
+    
+<string name="zoompercenttitle">缩小比例</string>
+<string name="zoompercentsummary">设置变焦到后台的百分比</string>
+    
+<string name="disablebrowsertitle">禁用</string>
+<string name="disablebrowsersummary">选择禁用浏览器</string>
+    
+<string name="hidesearchbartitle">隐藏搜索栏</string>
+<string name="hidesearchbarsummary">在主屏幕上隐藏搜索栏</string>
+    
+<string name="floatapp">漂浮应用</string>
+<string name="enablefloatoptiontitle">启用漂浮应用程序</string>
+<string name="enablefloatoptionsummary">在支持的ROM，您可以漂浮应用程序（长按应用程序的选项）</string>
+
+<string name="showbackgroundonurlbartitle">在地址栏中显示背景</string>
+<string name="showbackgroundonurlbarsummary">添加颜色背景到地址栏</string>
+
+<string name="browsercompactmodetitle">启用精简模式</string>
+<string name="browsercompactmodesummary">启用浏览器的布局适应为较小的设备</string>
+
+<string name="defaulthomepagetitle">默认主页</string>
+<string name="defaulthomepagesummary">设置默认页面</string>
+
+<string name="bottompaddingporttitle">除去底部填充（人像）</string>
+<string name="bottompaddingportsummary">如果需要的话，这将删除导航栏附近任何填充</string>
+
+<string name="bottompaddinglandtitle">去除底部填充（风景）</string>
+<string name="bottompaddinglandsummary">如果需要的话，这将删除导航栏附近任何填充</string>
+
+<string name="clearhistorytitle">清除历史记录</string>
+<string name="clearcachetitle">清除缓存</string>
+<string name="clearcookiestitle">清除Cookies</string>
+
+<string name="addshortcut">添加快捷方式</string>
+<string name="chooseshortcut">选择快捷方式</string>
+
+<string name="shortcutlabelstitle">快捷方式标签</string>
+<string name="shortcutlabelssummary">每个快捷方式下显示或隐藏标签</string>
+
+<string name="upgrade">升级到专业版带来更多功能</string>
+
+<string name="persistenttitle">常驻内存</string>
+<string name="persistentsummary">保持桌面在内存中。这个将会显示通知</string>
+
+<string name="confirmunlock">您确定要解除锁定的桌面？</string>
+
+<string name="yes">是</string>
+<string name="no">否</string>
+
+<string name="horizontalscrolltitle">水平滚动壁纸</string>
+<string name="horizontalscrollsummary">启用或禁用水平壁纸滚动动画</string>
+
+<string name="verticalscrolltitle">垂直滚动壁纸</string>
+<string name="verticalscrollsummary">启用或禁用垂直滚动壁纸动画</string>
+
+<string name="searchpackagestitle">搜索软件包</string>
+<string name="searchpackagessummary">启用或禁用搜索软件包名，如com.google.calendar</string>
+
+<string name="complete">完成操作</string>
+<string name="failed">操作失败</string>
+<string name="nobackup">没有找到备份</string>
+
+<string name="widgetsetupfail">无法打开小部件设置</string>
+<string name="savedimage">保存图像</string>
+
+<string name="wallpaper_settings">壁纸设置</string>
+
+<string name="adjustwallpapertitle">调整壁纸</string>
+<string name="adjustwallpapersummary">调整壁纸大小以适合屏幕</string>
+
+    <string name="cat_title_appearance">外观</string>
+    <string name="cat_title_actionbar">操作栏</string>
+    <string name="cat_title_tools">工具</string>
+    <string name="cat_title_icons">图标</string>
+    <string name="cat_title_other">其他</string>
+    <string name="cat_title_layout">布局</string>
+    <string name="cat_title_setup">设置</string>
+
+<string name="disablesidebarsummary">选择禁用侧边栏收藏夹 </string>
+
+    <string name="cat_title_gestures">手势</string>
+
+<string name="gesturedowntitle">向下滑动</string>
+<string name="gesturedownsummary">选择用于主页顶部快速滑动的操作</string>
+
+<string name="gestureuptitle">向上滑动</string>
+<string name="gestureupsummary">选择用于主页底部快速滑动的操作</string>
+
+<string name="gesturelefttitle">向左滑动</string>
+<string name="gestureleftsummary">选择一个动作快速滑动（浏览器必须被禁用）</string>
+
+<string name="action_togglestatusbar">隐藏/显示通知栏 </string>
+<string name="action_openapp">桌面应用</string>
+
+<string name="action_openapp_animationnormal">正常的应用程序打开动画</string>
+<string name="action_openapp_animationslide">滑开动画</string>
+
+    <string name="alert_leftswipegesture">启用这个手势，设置需要禁用浏览器使用才能它</string>
+
+<string name="gesturedoubletaptitle">双击</string>
+<string name="gesturedoubletapsummary">用于在主屏幕双击的操作</string>
+
+<string name="urlbarcolortitle">地址栏的颜色</string>
+<string name="urlbarcolorsummary">设置地址栏的背景颜色</string>
+
+<string name="clearonexittitle">退出时清除浏览器的痕迹</string>
+<string name="clearonexitsummary">退出清除浏览器的历史记录，缓存和Cookie</string>
+
+<string name="nobookmarks">无书签设置</string>
+
+<string name="sidebar_custom">定制</string>
+<string name="sidebarcolortitle">侧边栏颜色</string>
+<string name="sidebarcolorsummary">设置侧边栏的颜色</string>
+<string name="sidebartextcolortitle">侧边栏文字颜色</string>
+<string name="sidebartextcolorsummary">设置侧边栏的文本颜色</string>
+
+<string name="desktopviewtitle">启用桌面模式</string>
+<string name="desktopviewsummary">打开网页为电脑版网页</string>
+
+<string name="home_folder">添加文件夹</string>
+
+<string name="cat_title_content">内容 </string>
+<string name="enablecookies">允许cookie</string>
+<string name="disabledrawersummary">选择禁用该应用程序的抽屉</string>
+<string name="enablejavascript">启用JavaScript</string>
+<string name="enableimages">加载图片</string>
+
+<string name="prodescription">帮助购买Lucid Launcher 专业版</string>
+
+<string name="urlbardefault">输入搜索内容或地址</string>
+
+
+<string name="exit">退出</string>
+
+<string name="font_size_title">字体大小</string>
+<string name="font_size_summary">设置文本字体大小</string>
+
+<string name="sidebar_switched_title">切换侧边栏的位置</string>
+<string name="sidebar_switched_summary">侧边栏将切换在屏幕两侧的位置</string>
+
+<string name="browserfullscreentitle">沉浸式浏览器</string>
+<string name="browserfullscreensummary">移除浏览器下方填充</string>
+<string name="folderhidelabeltitle">文件夹标签</string>
+    <string name="folderhidelabelsummary">显示或隐藏每个文件夹下的标签</string>
+<string name="folder_label_blank">未命名文件夹</string>
+<string name="folderlabelcolortitle">文件夹应用标签颜色</string>
+    <string name="folderlabelcolorsummary">设置文件夹里面的标签的颜色</string>
+    <string name="remove_from_folder">从文件夹中删除</string>
+<string name="move_to_home">移动到首页</string>
+
+<string name="copyurl">复制链接</string>
+
+<string name="manage_screens">管理画面</string>
+
+<string name="remove">删除</string>
+
+<string name="paste">粘贴</string>
+
+<string name="confirm_exit_text">确定要退出？</string>
+
+</resources>

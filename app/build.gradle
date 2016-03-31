@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+android {
+    signingConfigs {
+    }
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+    useLibrary "org.apache.http.legacy"
+    defaultConfig {
+        applicationId "ma.MK.FlashBrowser"
+        minSdkVersion 11
+        targetSdkVersion 23
+    }
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation', 'ExtraTranslation'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    dependencies {
+        compile fileTree(include: ['*.jar'], dir: 'libs')
+        compile 'com.android.support:appcompat-v7:23.2.0'
+        compile 'com.google.android.gms:play-services-ads:8.4.0'
+    }
+}
+dependencies {
+    compile 'com.android.support:support-v4:23.2.0'
+}

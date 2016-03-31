@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="actionbarcolorsummary">"Выберите цвет поисковой строки"</string>
+    <string name="actionbarcolortitle">"Цвет строки поиска"</string>
+    <string name="actionbartransparencysummary">"Выберите прозрачность поисковой строки"</string>
+    <string name="actionbartransparencytitle">"Прозрачность поисковой строки"</string>
+    <string name="addToFavorites">"Добавить в Избранное"</string>
+    <string name="addToHome">"Добавить на домашний экран"</string>
+    <string name="advancedsettingstitle">"Расширенные настройки"</string>
+    <string name="appInfo">"Информация о приложении"</string>
+    <string name="backupsummary">"Резервное копирование все ваши настройки и установки"</string>
+    <string name="backuptitle">"Резервное копирование"</string>
+    <string name="bookmarks">"Закладки"</string>
+    <string name="close">"Закрыть"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику."</string>
+    <string name="dimwebpagesummary">"Уменьшение яркости фона на странице браузера"</string>
+    <string name="dimwebpagetitle">"Дим Браузер Страница"</string>
+    <string name="drawerlabelcolorsummary">"Выбрать цвет названий приложений"</string>
+    <string name="drawerlabelcolortitle">"Цвет названий приложений"</string>
+    <string name="drawersettingstitle">"Настройки меню приложений"</string>
+    <string name="fullscreensummary">"Показать/скрыть строку состояния"</string>
+    <string name="fullscreentitle">"Полноэкранный режим"</string>
+    <string name="gridsnapsummary">"Включение или отключение привязки к сетке"</string>
+    <string name="gridsnaptitle">"App Сетка оснастку"</string>
+    <string name="home">"Главная"</string>
+    <string name="home_settings">"Настроки Lucid Launcher"</string>
+    <string name="home_wallpaper">"Изменить обои"</string>
+    <string name="home_widgets">"Добавить виджет"</string>
+    <string name="homeiconsizemessage">"Выберите значок Размер:"</string>
+    <string name="homeiconsizesummary">"Установите размер значков на главной странице"</string>
+    <string name="homeiconsizetitle">"Иконка Размер"</string>
+    <string name="homeindicatorsummary">"Включение или отключение страницу Индикаторы"</string>
+    <string name="homeindicatortitle">"Страница Индикаторы"</string>
+    <string name="homelandcolsmessage">"Выберите количество столбцов в ландшафтном режиме:"</string>
+    <string name="homelandcolssummary">"Установите количество столбцов в ландшафтном режиме"</string>
+    <string name="homelandcolstitle">"Число столбцов (Горизонтально)"</string>
+    <string name="homelandrowsmessage">"Выберите количество строк в ландшафтном режиме:"</string>
+    <string name="homelandrowssummary">"Установить количество строк в ландшафтном режиме"</string>
+    <string name="homelandrowstitle">"Количество рядов (Горизонтально)"</string>
+    <string name="homenumpagesmessage">"Выберите количество домашних Страницы:"</string>
+    <string name="homenumpagessummary">"Установите количество домашних страниц"</string>
+    <string name="homenumpagestitle">"Количество домашних страниц"</string>
+    <string name="homeportcolsmessage">"Выберите количество столбцов в портретном режиме:"</string>
+    <string name="homeportcolssummary">"Установите количество столбцов в портретном режиме"</string>
+    <string name="homeportcolstitle">"Число столбцов (Портрет)"</string>
+    <string name="homeportrowsmessage">"Выберите количество строк в портретном режиме:"</string>
+    <string name="homeportrowssummary">"Установить количество строк в портретном режиме"</string>
+    <string name="homeportrowstitle">"Количество рядов (Портрет)"</string>
+    <string name="homesettingstitle">"Настройки рабочего стола"</string>
+    <string name="iconpaddingmessage">"Выберите значок Заполнение:"</string>
+    <string name="iconpaddingsummary">"Выбрать отступ вокруг иконок"</string>
+    <string name="iconpaddingtitle">"Отступы"</string>
+    <string name="iconsizemessage">"Выберите размер иконки:"</string>
+    <string name="iconsizesummary">"Выбрать размер иконок в меню приложений"</string>
+    <string name="iconsizetitle">"Размер иконок"</string>
+    <string name="launcher_settings">"Настройки оболочки"</string>
+    <string name="lock_desktop">"Закрепить элементы рабочего стола"</string>
+    <string name="lock_page">"Блокировка страницы на месте"</string>
+    <string name="mainsettingstitle">"Основные настройки"</string>
+    <string name="menu_settings">"Настройки"</string>
+    <string name="numcolumnsmessage">"Выберите число столбцов:"</string>
+    <string name="numcolumnssummary">"Настройка количества столбцов в меню приложений"</string>
+    <string name="numcolumnstitle">"Число столбцов"</string>
+    <string name="openinnewtab">"Открыть в новой вкладке"</string>
+    <string name="orientation_auto">Автоповорот</string>
+    <string name="orientation_landscape">Ландшафтный</string>
+    <string name="orientation_portrait">Портретный</string>
+    <string name="orientationsummary">"Установите ориентацию оболочки"</string>
+    <string name="orientationtitle">"Ориентация оболочки"</string>
+    <string name="pagetransformationsummary">"Выберите анимацию прокрутки страниц"</string>
+    <string name="pagetransformationtitle">"Анимация прокрутки"</string>
+    <string name="pagetransparencysummary">"Установите прозрачность меню приложений и браузера"</string>
+    <string name="pagetransparencytitle">"Страница Прозрачность"</string>
+    <string name="paste">Вставить</string>
+    <string name="refresh">"Обновить"</string>
+    <string name="removeFromFavorites">"Удалить из Избранного"</string>
+    <string name="resetsummary">"Сброс всех настроек на значения по умолчанию"</string>
+    <string name="resettitle">"Восстановление настроек по умолчанию"</string>
+    <string name="restoresummary">"Восстановить резервную копию"</string>
+    <string name="restoretitle">"Восстановить"</string>
+    <string name="saveimage">"Сохранить изображение"</string>
+    <string name="search">"Поиск"</string>
+    <string name="searchtextmessage">"Введите текст для строки поиска:"</string>
+    <string name="searchtextsummary">"Свой текст в поисковой строке"</string>
+    <string name="searchtexttitle">"Текст в строке поиска"</string>
+    <string name="set_home">"Сделать стартовой"</string>
+    <string name="showlabelssummary">"Показать/скрыть названия приложений"</string>
+    <string name="showlabelstitle">"Названия приложений"</string>
+    <string name="sidebar_dark">Темный</string>
+    <string name="sidebar_light">Светлый</string>
+    <string name="sidebariconpaddingmessage">"Выберите размер отступа:"</string>
+    <string name="sidebariconpaddingsummary">"Выберите размер отступа между иконками на боковой панели"</string>
+    <string name="sidebariconpaddingtitle">"Отступы вокруг иконок"</string>
+    <string name="sidebariconsizemessage">"Выберите размер иконок:"</string>
+    <string name="sidebariconsizesummary">"Выберите размер иконок на боковой панели"</string>
+    <string name="sidebariconsizetitle">"Размер иконок на боковой панели"</string>
+    <string name="sidebarsettingstitle">"Настройки боковой панели"</string>
+    <string name="sidebarthememessage">"Выберите тему:"</string>
+    <string name="sidebarthemesummary">"Выберите стиль боковой панели"</string>
+    <string name="sidebarthemetitle">"Стиль боковой панели"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop">"Стоп"</string>
+    <string name="system_settings">"Настройки системы"</string>
+    <string name="textcolorsummary">"Выберите цвет текста в поисковой строке"</string>
+    <string name="textcolortitle">"Цвет текста"</string>
+    <string name="trans_coverflow">Coverflow</string>
+    <string name="trans_cubezoom">Cube Zoom</string>
+    <string name="trans_doorclose">Дверь Закрыть</string>
+    <string name="trans_flipin">Флип В</string>
+    <string name="trans_flyin">Fly В</string>
+    <string name="trans_none">Ничего</string>
+    <string name="trans_pagestack">Стек страниц</string>
+    <string name="trans_spinin">Входить в штопор</string>
+    <string name="trans_stackin">Стек В</string>
+    <string name="trans_tiltin">Наклоните в</string>
+    <string name="trans_zoomout">Уменьшить</string>
+    <string name="transparentnavsummary">"Включение/отключение прозрачности наэкранных кнопок"</string>
+    <string name="transparentnavtitle">"Прозрачная панель навигации"</string>
+    <string name="transparentstatussummary">"Включение/отключение прозрачности строки состояния"</string>
+    <string name="transparentstatustitle">"Прозрачная строка состояния"</string>
+    <string name="uninstall">"Удалить"</string>
+    <string name="unlock_desktop">"Разблокировать рабочий стол"</string>
+    <string name="unlock_page">"Открой страницу"</string>
+    <string name="verticalspacingmessage">"Выберите Интервал по вертикали:"</string>
+    <string name="verticalspacingsummary">"Установите расстояние по вертикали в приложение ящик"</string>
+    <string name="verticalspacingtitle">"Вертикальный интервал"</string>
+    <string name="wallpaper">"Изменить обои"</string>
+    <string name="wallpaper_instructions">"Выберите действие"</string>
+    <string name="websettingstitle">"Настройки браузера"</string>
+    <string name="widgetgridsnapsummary">"Включение или отключение привязки к сетке"</string>
+    <string name="widgetgridsnaptitle">"Виджет Сетка оснастку"</string>
+</resources>

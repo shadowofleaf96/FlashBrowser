@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label" translatable="false">FlashBrowser</string>
+	<string name="engine_google" translatable="false">Google</string>
+    <string name="engine_yahoo" translatable="false">Yahoo</string>
+    <string name="engine_bing" translatable="false">Bing</string>
+    <string name="engine_duckduckgo" translatable="false">DuckDuckGo</string>
+    <string name="engine_ask" translatable="false">Ask</string>
+    <string name="engine_ixquick" translatable="false">ixquick</string>
+    <string name="engine_blekko" translatable="false">Blekko</string>
+</resources>

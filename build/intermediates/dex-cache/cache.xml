@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_67426b6f73c84b8b2bfa267eb1f3401439ab2ac4.jar" />
+    </item>
+    <item
+        jar="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_e42fac9efd0fb71c656e0402c6300a04dac32564.jar" />
+    </item>
+    <item
+        jar="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_ce14594202fda6140f2af3c74a5ef2f2f59a2403.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_aaf397124d60fedcaed5309da1df33c42769951b.jar" />
+    </item>
+    <item
+        jar="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_e6c39ad1707aacd4775256872e3b181f590595fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_1121d60c23b6f7989f480a09c8ccae030a2d18b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_79d89b50b6ff99653538a87b3ad1af78c32b3988.jar" />
+    </item>
+    <item
+        jar="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\simo\Desktop\FlashBrowser\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_9b581851092583aa3bc7917156fdc83d1fb799ad.jar" />
+    </item>
+
+</items>

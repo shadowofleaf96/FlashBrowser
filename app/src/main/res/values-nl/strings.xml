@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+
+
+    <string name="trans_zoomout">Uitzoomen</string>
+    <string name="trans_pagestack">Stapelen</string>
+    <string name="trans_flipin">Flip</string>
+    <string name="trans_doorclose">Deur</string>
+    <string name="trans_tiltin">Tilt In</string>
+    <string name="trans_spinin">Spin In</string>
+    <string name="trans_stackin">Stack In</string>
+    <string name="trans_coverflow">Coverflow</string>
+    <string name="trans_flyin">Fly In</string>
+    <string name="trans_cubezoom">Cube Zoom</string>
+    <string name="trans_none">None</string>
+
+    <string name="orientation_auto">Auto Rotate</string>
+    <string name="orientation_portrait">Portrait</string>
+    <string name="orientation_landscape">Landscape</string>
+
+    <string name="sidebar_dark">Dark</string>
+    <string name="sidebar_light">Light</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="wallpaper_instructions">Select action</string>
+   
+    <string name="search">Search</string>
+    <string name="gadget_error_text">Problem loading widget</string>
+    
+    <string name="system_settings">System Settings</string>
+    <string name="launcher_settings">Launcher Settings</string>
+    <string name="wallpaper">Change Wallpaper</string>
+    <string name="lock_desktop" >Lock Desktop</string>
+    <string name="unlock_desktop" >Unlock Desktop</string>
+    <string name="lock_page">Lock Page in Place</string>
+    <string name="unlock_page" >Unlock this Page</string>
+   
+    <string name="bookmarks">Bookmarks</string>
+    <string name="refresh">Refresh</string>
+    <string name="stop">Stop</string>
+    <string name="home">Home</string>
+    <string name="set_home">Set as Homepage</string>
+    <string name="share">Share</string>
+    
+    <string name="appInfo">App Info</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="addToHome">Add To Home</string>
+    <string name="addToFavorites">Add To Favorites</string>
+    <string name="removeFromFavorites">Remove From Favorites</string>
+    <string name="close">Close</string>
+    
+    <string name="home_widgets">Add Widget</string>
+    <string name="home_wallpaper">Change Wallpaper</string>
+    <string name="home_settings">Lucid Launcher Settings</string>
+    <string name="home_store">Lucid Store</string>
+    
+    <string name="saveimage">Save Image</string>
+    <string name="openinnewtab" >Open in New Tab</string>
+    
+    <string name="mainsettingstitle">Main Settings</string>
+    <string name="sidebarsettingstitle">Sidebar Settings</string>
+    <string name="drawersettingstitle">App Drawer Settings</string>
+    <string name="homesettingstitle">Home Page Settings</string>
+    <string name="advancedsettingstitle">Advanced Settings</string>
+    <string name="websettingstitle" >Browser Settings</string>
+    
+    <string name="pagetransformationtitle">Scroll Animation</string>
+    <string name="pagetransformationsummary">Set the page scroll animation</string>
+    
+
+    <string name="actionbarcolortitle">ActionBar Color</string>
+    <string name="actionbarcolorsummary">Set the color of the actionbar</string>
+    
+    <string name="textcolortitle">ActionBar Text Color</string>
+    <string name="textcolorsummary">Set the color of the text on the ActionBar</string>
+    
+    <string name="actionbartransparencytitle">ActionBar Opacity</string>
+    <string name="actionbartransparencysummary">Set the opacity of the ActionBar</string>
+    
+    <string name="pagetransparencytitle">Page Opacity</string>
+    <string name="pagetransparencysummary">Set the opacity of the App and Browser page</string>
+    
+    <string name="orientationtitle">Launcher Orientation</string>
+    <string name="orientationsummary">Set the orientation of the Launcher</string>
+    
+    <string name="fullscreentitle">Fullscreen</string>
+    <string name="fullscreensummary">Show or hide the Status Bar</string>
+    
+    <string name="transparentnavtitle">Transparent Navigation Bar</string>
+    <string name="transparentnavsummary">Enable or Disable transparent Navigation Bar</string>
+    
+    <string name="transparentstatustitle">Transparent Status Bar</string>
+    <string name="transparentstatussummary">Enable or Disable transparent Status Bar</string>
+    
+    <string name="searchtexttitle">Custom Search Text</string>
+    <string name="searchtextsummary" >Set the search text in the ActionBar</string>
+    <string name="searchtextmessage" >Enter a Custom Search Text:</string>
+    
+    <string name="sidebarthemetitle" >Sidebar Theme</string>
+    <string name="sidebarthemesummary" >Set the Sidebar Theme</string>
+    <string name="sidebarthememessage" >Select a Theme:</string>
+    
+    <string name="sidebariconsizetitle">Sidebar Icon Size</string>
+    <string name="sidebariconsizesummary">Set the icon size in the Sidebar</string>
+    <string name="sidebariconsizemessage">Select the Icon Size:</string>
+    
+    <string name="sidebariconpaddingtitle">Sidebar Icon Padding</string>
+    <string name="sidebariconpaddingsummary">Set the padding around Sidebar Icons</string>
+    <string name="sidebariconpaddingmessage">Select the Sidebar Icon Padding:</string>
+    
+    <string name="sidebarhidelabeltitle">App Label</string>
+    <string name="sidebarhidelabelsummary">Show or hide the labels beside each icon</string>
+    
+    <string name="sidebartransparencytitle">Sidebar Opacity</string>
+    <string name="sidebartransparencysummary">Set the opacity of the sidebar</string>
+    
+    <string name="numcolumnstitle">Number of Columns</string>
+    <string name="numcolumnssummary">Set the number of columns in the app drawer</string>
+    <string name="numcolumnsmessage">Select the Number of Columns:</string>
+    
+    <string name="showlabelstitle">App Icon Labels</string>
+    <string name="showlabelssummary">Show or hide the labels under each icon</string>
+
+    <string name="drawerlabelcolortitle">Label Color</string>
+    <string name="drawerlabelcolorsummary">Set the text color for icon labels</string>
+    
+    <string name="iconsizetitle">Icon Size</string>
+    <string name="iconsizesummary">Set the icon size in the app drawer</string>
+    <string name="iconsizemessage">Select the Icon Size:</string>
+    
+    <string name="iconpaddingtitle">Icon Padding</string>
+    <string name="iconpaddingsummary">Set the padding around each icon</string>
+    <string name="iconpaddingmessage">Select the Icon Padding:</string>
+    
+    <string name="verticalspacingtitle">Vertical Spacing</string>
+    <string name="verticalspacingsummary">Set vertical spacing in the app drawer</string>
+    <string name="verticalspacingmessage">Select the Vertical Spacing:</string>
+
+    <string name="homenumpagestitle"   >Number of Home Pages</string>
+    <string name="homenumpagessummary" >Set the number of home pages</string>
+    <string name="homenumpagesmessage" >Select the Number of Home Pages:</string>
+    
+    <string name="gridsnaptitle">App Grid Snap</string>
+    <string name="gridsnapsummary">Enable or disable snap to grid</string>
+    
+    <string name="widgetgridsnaptitle">Widget Grid Snap</string>
+    <string name="widgetgridsnapsummary">Enable or disable snap to grid</string>
+    
+    <string name="homelandcolstitle">Number of Columns (Landscape)</string>
+    <string name="homelandcolssummary">Set the number of columns in landscape mode</string>
+    <string name="homelandcolsmessage">Select the Number of Columns in Landscape Mode:</string>
+    
+    <string name="homelandrowstitle">Number of Rows (Landscape)</string>
+    <string name="homelandrowssummary">Set the number of rows in landscape mode</string>
+    <string name="homelandrowsmessage">Select the Number of Rows in Landscape Mode:</string>
+    
+    <string name="homeportcolstitle">Number of Columns (Portrait)</string>
+    <string name="homeportcolssummary">Set the number of columns in portrait mode</string>
+    <string name="homeportcolsmessage">Select the Number of Columns in Portrait Mode:</string>
+    
+    <string name="homeportrowstitle">Number of Rows (Portrait)</string>
+    <string name="homeportrowssummary">Set the number of rows in portrait mode</string>
+    <string name="homeportrowsmessage">Select the Number of rows in Portrait Mode:</string>
+    
+    <string name="homeiconsizetitle">Icon Size</string>
+    <string name="homeiconsizesummary">Set the size of the icons on the home page</string>
+    <string name="homeiconsizemessage">Select the Icon Size:</string>
+    
+    <string name="homeindicatortitle">Page Indicators</string>
+    <string name="homeindicatorsummary">Enable or Disable Page Indicators</string>
+    
+    <string name="dimwebpagetitle" >Dim Browser Page</string>
+    <string name="dimwebpagesummary" >Dims the background in the browser page</string>
+    
+    <string name="icon_theme">Icon Theme</string>
+    
+    <string name="hide_apps">Hidden apps</string>
+    <string name="hide_appssummary">Hide apps from the drawer</string>
+    
+    <string name="resettitle">Restore settings to default</string>
+    <string name="resetsummary">Reset all the settings to their default value</string>
+    
+    <string name="backuptitle">Backup</string>
+    <string name="backupsummary">Backup all your settings and setup</string>
+    
+    <string name="restoretitle">Restore</string>
+    <string name="restoresummary">Restore your backup</string>
+    
+    
+    <string name="zoompercenttitle">Zoom Out Percentage</string>
+    <string name="zoompercentsummary">Set the percentage of zoom to the background</string>
+    
+    <string name="disablebrowsertitle">Disable</string>
+    <string name="disablebrowsersummary">Select to disable the browser</string>
+    
+    <string name="hidesearchbartitle">Hide Searchbar</string>
+    <string name="hidesearchbarsummary">Hide searchbar on the home screen</string>
+    
+    <string name="floatapp">Float App</string>
+    <string name="enablefloatoptiontitle">Enable Floating Apps</string>
+    <string name="enablefloatoptionsummary">On a supported ROM you may float an app (long press on app for option)</string>
+
+<string name="showbackgroundonurlbartitle">Show Backdrop on URL bar</string>
+<string name="showbackgroundonurlbarsummary">Adds a backdrop to the URL bar</string>
+
+<string name="browsercompactmodetitle">Enable Compact Mode</string>
+<string name="browsercompactmodesummary">Enables a browser layout adapt for smaller devices</string>
+
+ <string name="defaulthomepagetitle">Default Home Page</string>
+ <string name="defaulthomepagesummary">Set the default page</string>
+
+<string name="bottompaddingporttitle">Remove Bottom Padding (Portrait)</string>
+<string name="bottompaddingportsummary">If needed, this will remove any padding near navbar</string>
+
+<string name="bottompaddinglandtitle">Remove Bottom Padding (Landscape)</string>
+<string name="bottompaddinglandsummary">If needed, this will remove any padding near navbar</string>
+
+ <string name="clearhistorytitle">Clear History</string>
+<string name="clearcachetitle">Clear Cache</string>
+<string name="clearcookiestitle">Clear Cookies</string>
+
+<string name="addshortcut">Add Shortcut</string>
+<string name="chooseshortcut">Choose Shortcut</string>
+
+<string name="shortcutlabelstitle">Shortcut Labels</string>
+<string name="shortcutlabelssummary">Show or hide labels under each shortcut</string>
+
+<string name="upgrade">Upgrade to Lucid Launcher Pro for more features</string>
+
+<string name="persistenttitle">System Persistent</string>
+<string name="persistentsummary">Keep launcher in memory. This will display a notification</string>
+
+<string name="confirmunlock">Are you sure you want to unlock the desktop?</string>
+
+<string name="yes">Yes</string>
+<string name="no">No</string>
+
+<string name="horizontalscrolltitle">Scroll Wallpaper Horizontal</string>
+<string name="horizontalscrollsummary">Enable or disable horizontal wallpaper scroll animation</string>
+
+<string name="verticalscrolltitle">Scroll Wallpaper Vertical</string>
+<string name="verticalscrollsummary">Enable or disable vertical wallpaper scroll animation</string>
+
+<string name="searchpackagestitle">Search Packages</string>
+<string name="searchpackagessummary">Enable or disable searching package names such as com.google.calendar</string>
+
+<string name="complete">action completed</string>
+<string name="failed">action failed</string>
+<string name="nobackup">no backup found</string>
+
+<string name="widgetsetupfail">failed to open widget setup</string>
+<string name="savedimage">saved image to</string>
+
+<string name="wallpaper_settings">Wallpaper Settings</string>
+
+<string name="adjustwallpapertitle">Adjust Wallpaper</string>
+<string name="adjustwallpapersummary">Adjust the wallpaper size to fit screen</string>
+
+    <string name="cat_title_appearance">Appearance</string>
+    <string name="cat_title_actionbar">Action Bar</string>
+    <string name="cat_title_tools">Tools</string>
+    <string name="cat_title_icons">Icons</string>
+    <string name="cat_title_other">Other</string>
+    <string name="cat_title_layout">Layout</string>
+    <string name="cat_title_setup">Setup</string>
+
+<string name="disablesidebarsummary">Select to disable the favorites sidebar</string>
+
+    <string name="cat_title_gestures">Gestures</string>
+
+<string name="gesturedowntitle">Swipe Down</string>
+<string name="gesturedownsummary">Select an action for swiping down on the top home page</string>
+
+<string name="gestureuptitle">Swipe Up</string>
+<string name="gestureupsummary">Select an action for swiping up on the bottom home page</string>
+
+<string name="gesturelefttitle">Swipe Left</string>
+<string name="gestureleftsummary">Select an action for swiping left (browser must be disabled)</string>
+
+<string name="action_togglestatusbar">Toggle Notification Bar</string>
+<string name="action_openapp">Launch App</string>
+
+<string name="action_openapp_animationnormal">Normal app open animation</string>
+<string name="action_openapp_animationslide">Slide left app open animation</string>
+
+    <string name="alert_leftswipegesture">Gesture was set. Disable the browser to use it</string>
+
+<string name="gesturedoubletaptitle">Double Tap</string>
+<string name="gesturedoubletapsummary">Select an action for double tapping the home screen</string>
+
+
+
+
+
+
+
+
+
+<string name="sidebar_custom">Custom</string>
+<string name="sidebarcolortitle">Sidebar Color</string>
+<string name="sidebarcolorsummary">Set the color of the sidebar</string>
+<string name="sidebartextcolortitle">Sidebar Text Color</string>
+<string name="sidebartextcolorsummary">Set the text color of the sidebar</string>
+
+<string name="desktopviewtitle">Desktop Weergave Aanzetten</string>
+<string name="desktopviewsummary">Webpagina\'s weergeven als een desktop browser</string>
+
+<string name="home_folder">Folder toevoegen</string>
+
+<string name="urlbarcolortitle">URL balk kleur</string>
+<string name="urlbarcolorsummary">De achtergrond kleur van de URL balk veranderen</string>
+
+<string name="clearonexittitle">Browser traces leeggooien tijdens het uitzetten</string>
+<string name="clearonexitsummary">Bij het sluiten van de browser wordt de geschiedenis, het cache geheugen en de cookies verwijdert</string>
+
+<string name="nobookmarks">Geen bookmarks ingesteld</string>
+
+<string name="cat_title_content">Inhoud</string>
+<string name="enablecookies">Cookies Toestaan</string>
+<string name="disabledrawersummary">Selecteer om de app drawer uit te zetten</string>
+<string name="enablejavascript">JavaScript aanzetten</string>
+<string name="enableimages">Afbeeldingen Laden</string>
+
+<string name="prodescription">Help het Lucid Launcher project door de pro versie aan te schaffen</string>
+<string name="urlbardefault">Voer een zoekopdracht of adres in</string>
+
+<string name="font_size_title">Tekst grote</string>
+<string name="font_size_summary">Verander de grootte van de tekst</string>
+
+<string name="sidebar_switched_title">Sidebar locatie veranderen</string>
+<string name="sidebar_switched_summary">Sidebars zullen op het scherm van kanten veranderen</string>
+
+<string name="exit">Beëindigen </string>
+
+<string name="browserfullscreentitle">Volledige Browser</string>
+<string name="browserfullscreensummary">verwijder de vulling aan de onderkant van de browser</string>
+<string name="folderhidelabeltitle">Folder Label</string>
+    <string name="folderhidelabelsummary">De labels onder elke folder laten zien of verbergen</string>
+<string name="folder_label_blank">Folder zonder naam</string>
+<string name="folderlabelcolortitle">Folder App Label Kleuren</string>
+    <string name="folderlabelcolorsummary">De kleuren van de labels in de folders veranderen</string>
+    <string name="remove_from_folder">Verwijderen van folder</string>
+<string name="move_to_home">Verplaatsen naar thuis</string>
+
+<string name="copyurl">Link kopiëren</string>
+
+<string name="manage_screens">Schermen beheren</string>
+
+<string name="remove">Verwijderen</string>
+
+<string name="browser_removed_dialog">Deze app zal van de markt verwijdert worden in verband met beleid complicaties. Klik alstublieft op de volgende link om doorgewezen te worden naar de nieuwste Lucid Browser app:</string>
+
+<string name="sslUntrustedTitle">SSL Certificaat wordt niet vertrouwd</string>
+<string name="sslUntrustedMessage">De webpagina op\n\n%s\n\nheeft een zelfgesigneerd SSL certificaat.</string>
+<string name="sslIdMismatchTitle">SSL certificaat is niet geldig voor deze webpagina</string>
+<string name="sslIdMismatchMessage" formatted="false">De webpagina op\n\n%1s\n\nheeft een SSL certificaat dat alleen geldig is voor %2s.</string>
+<string name="sslExpiredTitle">SSL Certificaat niet langer geldig</string>
+<string name="sslExpiredMessage" formatted="false">De webpagina op\n\n%1s\n\nheeft een SSL certificaat dat niet langer geldig is. Hij is sinds %2s niet meer geldig.</string>
+<string name="sslNotYetValidTitle">SSL Certificaat is nog niet geldig</string>
+<string name="sslNotYetValidMessage" formatted="false">De webpagina op\n\n%1s\n\nheeft een SSL certificaat dat nog niet geldig is. Hij zal geldig worden over %2s.</string>
+
+<string name="sslWebsiteWarning">De webpagina is waarschijnlijk onveilig en het certificaat kan niet worden geverifieerd worden. Pas alstublieft op.</string>
+<string name="sslProceedQuestion">Wil je dit certificaat accepteren?</string>
+
+<string name="browser">Browser</string>
+<string name="app_drawer">Apps</string>
+<string name="home_screen">Thuis</string>
+
+<string name="paste">Plakken</string>
+
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tamamlandı"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="actionbarcolorsummary">Favori çubuğu rengini seç</string>
+    <string name="actionbarcolortitle">Favori Çubuğu</string>
+    <string name="actionbartransparencysummary">Favori çubuğu saydamlığını seç</string>
+    <string name="actionbartransparencytitle">Favori Çubuğu Saydamlığı</string>
+    <string name="addToFavorites">Favorilere Ekle</string>
+    <string name="addToHome">Ana Sayfaya Ekle</string>
+    <string name="advancedsettingstitle">Gelişmiş Ayarlar</string>
+    <string name="appInfo">Program Bilgileri</string>
+    <string name="backupsummary">Tüm ayarları yedeklemenizi sağlar</string>
+    <string name="backuptitle">Yedekleme</string>
+    <string name="bookmarks">Yer İmleri</string>
+    <string name="close">Kapat</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Sorun devam ederse lütfen yardım için geliştiriciyle iletişim kurun."</string>
+    <string name="dimwebpagesummary">Tarayıcının arka planının karartılmasını sağlar</string>
+    <string name="dimwebpagetitle">Tarayıcı Karartması</string>
+    <string name="drawerlabelcolorsummary">İkon etiketleri renklerini seçin</string>
+    <string name="drawerlabelcolortitle">Etiket Rengi</string>
+    <string name="drawersettingstitle">Başlatıcı Ayarları</string>
+    <string name="fullscreensummary">Bildirim çubuğu görülmesi ayarı</string>
+    <string name="fullscreentitle">Tam Ekran</string>
+    <string name="gadget_error_text">Araç Yüklenirken Hata Oluştu</string>
+    <string name="gridsnapsummary">Ana sayfaya sabitlenen ikonların otomatik olarak ayarlanması seçimi</string>
+    <string name="gridsnaptitle">Ana Sayfaki İkon Konumu</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="home_settings">Lucid Başlatıcı Ayarları</string>
+    <string name="home_wallpaper">Duvar Kağıdını Değiştir</string>
+    <string name="home_widgets">Araç Ekle</string>
+    <string name="homeiconsizemessage">İkon Boyutu:</string>
+    <string name="homeiconsizesummary">Ana sayfada gösterilecek olan ikonların boyutunu seçin</string>
+    <string name="homeiconsizetitle">İkon Boyutu</string>
+    <string name="homeindicatorsummary">Sayfaların yan tarafında bulunan göstergenin ayarı</string>
+    <string name="homeindicatortitle">Sayfa Göstergesi</string>
+    <string name="homelandcolsmessage">Sütun Sayısı Seçin:</string>
+    <string name="homelandcolssummary">Yatay konumdayken gösterilecek sütun sayısını seçin</string>
+    <string name="homelandcolstitle">Yatay Konumda Sütun Sayısı</string>
+    <string name="homelandrowsmessage">Satır Sayısı Seçin:</string>
+    <string name="homelandrowssummary">Yatay konumdayken gösterilecek satır sayısını seçin</string>
+    <string name="homelandrowstitle">Yatay Konumda Satır Sayısı</string>
+    <string name="homenumpagesmessage">Sayfa Sayısı:</string>
+    <string name="homenumpagessummary">Ana sayfada bulunan sayfa sayısını seçin</string>
+    <string name="homenumpagestitle">Ana Sayfa Sayısı</string>
+    <string name="homeportcolsmessage">Sütun Sayısı Seçin:</string>
+    <string name="homeportcolssummary">Dikey konumdayken gösterilecek sütun sayısını seçin</string>
+    <string name="homeportcolstitle">Dikey Konumda Sütun Sayısı</string>
+    <string name="homeportrowsmessage">Satır Sayısı Seçin:</string>
+    <string name="homeportrowssummary">Dikey konumdayken gösterilecek satır sayısını seçin</string>
+    <string name="homeportrowstitle">Dikey Konumda Satır Sayısı</string>
+    <string name="homesettingstitle">Ana Sayfa Ayarları</string>
+    <string name="icon_theme">İkon Teması</string>
+    <string name="iconpaddingmessage">Değer Seçin:</string>
+    <string name="iconpaddingsummary">İkonların bulunma sıklıklarının ayarı</string>
+    <string name="iconpaddingtitle">İkon Sıklığı</string>
+    <string name="iconsizemessage">İkon Boyutunu Seçin:</string>
+    <string name="iconsizesummary">Ana sayfadaki ikonların boyutlarının ayarı</string>
+    <string name="iconsizetitle">İkon Boyutu</string>
+    <string name="launcher_settings">Başlatıcı Ayarları</string>
+    <string name="lock_desktop">Masaüstünü Kilitle</string>
+    <string name="lock_page">Sayfayı Sabitle</string>
+    <string name="mainsettingstitle">Genel Ayarlar</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="numcolumnsmessage">Sütun sayısı:</string>
+    <string name="numcolumnssummary">Başlatıcıda görülecek sütun sayısını seçin</string>
+    <string name="numcolumnstitle">Sütun Sayısı</string>
+    <string name="openinnewtab">Yeni Sekmede Aç</string>
+    <string name="orientation_auto">Otomatik Döndür</string>
+    <string name="orientation_landscape">Yana Yatık</string>
+    <string name="orientation_portrait">Düz</string>
+    <string name="orientationsummary">Başlatıcının yatık veya düz olması ayarı</string>
+    <string name="orientationtitle">Başlatıcı Ekranı Şekli</string>
+    <string name="pagetransformationsummary">Sayfa geçişi animasyonu</string>
+    <string name="pagetransformationtitle">Sayfa Geçişi</string>
+    <string name="pagetransparencysummary">Program sayfası ve tarayıcı saydamlığını seç</string>
+    <string name="pagetransparencytitle">Sayfa Saydamlığı</string>
+    <string name="paste">Yapıştır</string>
+    <string name="refresh">Yenile</string>
+    <string name="removeFromFavorites">Favorilerden Çıkar</string>
+    <string name="resetsummary">Program ayarlarını başlangıç ayarlarına geri döndürür</string>
+    <string name="resettitle">Ayarları Sıfırla</string>
+    <string name="restoresummary">Yedeklerinizi geri yükler</string>
+    <string name="restoretitle">Geri Yükle</string>
+    <string name="saveimage">İmajı Kaydet</string>
+    <string name="search">Ara</string>
+    <string name="searchtextmessage">Görülmesini istediğiniz yazıyı girin:</string>
+    <string name="searchtextsummary">Arama çubuğundaki yazının değiştirilmesi ayarı</string>
+    <string name="searchtexttitle">Arama Çubuğu Yazısı</string>
+    <string name="set_home">Başlangıç Sayfasına Ayarla</string>
+    <string name="share">Paylaş</string>
+    <string name="showlabelssummary">İkonların altında etiket gösterilmesi ayarı</string>
+    <string name="showlabelstitle">İkon Etiketi</string>
+    <string name="sidebar_dark">Karanlık</string>
+    <string name="sidebar_light">Aydınlık</string>
+    <string name="sidebarhidelabelsummary">İkonların etiketlerinin gösterilmesi ayarı</string>
+    <string name="sidebarhidelabeltitle">Favori Çubuğu Etiketleri</string>
+    <string name="sidebariconpaddingmessage">Görülecek İkon Sayısı:</string>
+    <string name="sidebariconpaddingsummary">Favori çubuğundaki ikonların sayısını seçin</string>
+    <string name="sidebariconpaddingtitle">Favori Çubuğu İkon Sayısı</string>
+    <string name="sidebariconsizemessage">İkon Boyutu Seçin:</string>
+    <string name="sidebariconsizesummary">Favori çubuğundaki ikonların boyutunu seçin</string>
+    <string name="sidebariconsizetitle">Favori Çubuğu İkonları</string>
+    <string name="sidebarsettingstitle">Favori Çubuğu Ayarları</string>
+    <string name="sidebarthememessage">Tema Seçin:</string>
+    <string name="sidebarthemesummary">Favori çubuğu teması seçin</string>
+    <string name="sidebarthemetitle">Favori Çubuğu Teması</string>
+    <string name="sidebartransparencysummary">Favori çubuğu saydamlık ayarları</string>
+    <string name="sidebartransparencytitle">Favori Çubuğu Saydamlığı</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Dur</string>
+    <string name="system_settings">Sistem Ayarları</string>
+    <string name="textcolorsummary">Favori çubuğu yazı rengini seç</string>
+    <string name="textcolortitle">Favori Çubuğu Yazısı</string>
+    <string name="trans_coverflow">Kapak Şeklinde</string>
+    <string name="trans_cubezoom">Cube Zoom</string>
+    <string name="trans_doorclose">Kapı Kapanması</string>
+    <string name="trans_flipin">Çevirerek</string>
+    <string name="trans_flyin">Uçarak</string>
+    <string name="trans_none">Hiçbiri</string>
+    <string name="trans_pagestack">Yığın</string>
+    <string name="trans_spinin">Döndürerek</string>
+    <string name="trans_stackin">Kümelendirerek</string>
+    <string name="trans_tiltin">Eğerek</string>
+    <string name="trans_zoomout">Uzaklaştırarak</string>
+    <string name="transparentnavsummary">Navigasyon çubuğu saydamlık ayarları</string>
+    <string name="transparentnavtitle">Navigasyon Çubuğu</string>
+    <string name="transparentstatussummary">Durum çubuğu saydamlığının olup olmaması ayarı</string>
+    <string name="transparentstatustitle">Durum çubuğu saydamlığı</string>
+    <string name="uninstall">Kaldır</string>
+    <string name="unlock_desktop">Masaüstü Kilidini Aç</string>
+    <string name="unlock_page">Sayfayı Sabitleme</string>
+    <string name="verticalspacingmessage">Yatay Boşluk:</string>
+    <string name="verticalspacingsummary">Başlatıcıdaki ikonlar arasındaki boşluk ayarı</string>
+    <string name="verticalspacingtitle">Yatay Boşluk</string>
+    <string name="wallpaper">Duvar Kağıdı Değiştir</string>
+    <string name="wallpaper_instructions">Eylem Seçin</string>
+    <string name="websettingstitle">Tarayıcı Ayarları</string>
+    <string name="widgetgridsnapsummary">Oluşturulan araçların ana sayfadaki konumunun otomatik olarak ayarlanması seçimi</string>
+    <string name="widgetgridsnaptitle">Ana Sayfa Araçları Konumu</string>
+</resources>
